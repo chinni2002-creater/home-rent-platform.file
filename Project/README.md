@@ -27,7 +27,7 @@ A complete web application that allows users to rent or buy residential properti
 ##  Search Module
 
 - Users can search for properties using filters:
-- Location
+  - Location
 - Filter properties based on rent or buy category.  
 - View results matching the search and filter criteria
 - Instantly explore property details from search results.
@@ -38,11 +38,11 @@ A complete web application that allows users to rent or buy residential properti
 
 - Display property owner's contact info (name, phone, email)
 - Users can contact owners for:
-- Booking confirmation
-- Rental discussions
-- Agreement queries
+  - Booking confirmation
+  - Rental discussions
+  - Agreement queries
 - Only logged-in users can view full contact details
-Contact information securely stored in the database for follow-up.
+ Contact information securely stored in the database for follow-up.
 
 ---
 
